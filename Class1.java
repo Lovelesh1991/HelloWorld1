@@ -14,7 +14,9 @@ public class Class1 {
 	  //firstMethod();
 		
 		System.out.println("I Am Second");
-	}
+
+
+System.out.println("Code Pushed to Git");	}
 
 }
 
